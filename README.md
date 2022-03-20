@@ -3,6 +3,7 @@
 ### Greetings, I'm Gyeong-ho 😄
 
 [![Gyeongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seahahn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seahahn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **seahahn/seahahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
