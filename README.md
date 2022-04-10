@@ -55,5 +55,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=seahahn&show_icons=true&locale=en" alt="seahahn" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seahahn&show_icons=true&locale=en&layout=compact" alt="seahahn" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seahahn&show_icons=true&locale=en&layout=compact" alt="seahahn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seahahn&show_icons=true&locale=en" alt="seahahn" /></p>
