@@ -6,18 +6,21 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseahahn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-- 👨‍💻 Portfolio [https://github.com/seahahn/portfolio](https://github.com/seahahn/portfolio)
+- 👨‍💻 Portfolio : [https://github.com/seahahn/portfolio](https://github.com/seahahn/portfolio)
 
-- 📝 Blog [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
+- 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
 
-- 📫 E-mail **seah.ahn.nt@gmail.com**
+- 📫 E-mail : seah.ahn.nt@gmail.com
 
-- 📄 Resume [https://bit.ly/3wZDHSi](https://bit.ly/3wZDHSi)
+- 📄 Resume : [https://bit.ly/3wZDHSi](https://bit.ly/3wZDHSi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/seahahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seahahn" height="30" width="40" /></a>
-<a href="https://fb.com/seahahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seahahn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gyeong-ho-ahn-2a949116b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seahahn" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/17848376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gyeong-ho-ahn" height="30" width="40" /></a>
+<a href="https://kaggle.com/gyeonghoahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gyeonghoahn" height="30" width="40" /></a>
+<a href="https://fb.com/seah.ahn.nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seahahn" height="30" width="40" /></a>
+<a href="https://instagram.com/ahn_h.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahn_h.m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
