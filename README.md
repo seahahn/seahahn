@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm Gyeong ho😄</h1>
+<h1 align="center">Greetings, I'm Gyeong-ho😄</h1>
 <h3 align="center">Since Aug 5, 2020</h3>
 
 <div align="center">
@@ -41,8 +41,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin&logoColor=E34A86)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin&logoColor=E34A86)
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
