@@ -11,16 +11,18 @@
 
 - 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
 
+- 🔗 LinkedIn: [https://www.linkedin.com/in/seahahn](https://www.linkedin.com/in/seahahn)
+
 - 📫 E-mail : [seah.ahn.nt@gmail.com](mailto:seah.ahn.nt@gmail.com)
 
-<h2 align="left">Connect with me:</h2>
+<!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/gyeongho-ahn-2a949116b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seahahn" height="30" width="40" /></a>  
-<!-- <a href="https://stackoverflow.com/users/17848376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gyeong-ho-ahn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seahahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seahahn" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/17848376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gyeong-ho-ahn" height="30" width="40" /></a>
 <a href="https://kaggle.com/gyeonghoahn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gyeonghoahn" height="30" width="40" /></a>
 <a href="https://fb.com/seah.ahn.nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seahahn" height="30" width="40" /></a>
-<a href="https://instagram.com/ahn_h.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahn_h.m" height="30" width="40" /></a> -->
-</p>
+<a href="https://instagram.com/ahn_h.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahn_h.m" height="30" width="40" /></a>
+</p> -->
 
 <h2 align="left">Languages and Tools</h2>
 
