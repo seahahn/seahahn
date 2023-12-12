@@ -9,11 +9,11 @@
 
 - 👨‍💻 Portfolio : [https://github.com/seahahn/portfolio](https://github.com/seahahn/portfolio)
 
-<!-- - 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/) -->
+- 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
 
 - 📫 E-mail : [seah.ahn.nt@gmail.com](mailto:seah.ahn.nt@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/gyeongho-ahn-2a949116b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seahahn" height="30" width="40" /></a>  
 <!-- <a href="https://stackoverflow.com/users/17848376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gyeong-ho-ahn" height="30" width="40" /></a>
@@ -22,9 +22,9 @@
 <a href="https://instagram.com/ahn_h.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahn_h.m" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 
-<h4 align="left">Frontend:</h4>
+<h3 align="left">Frontend:</h3>
 
 ![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -43,7 +43,7 @@
 
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
 
-<h4 align="left">Backend:</h4>
+<h3 align="left">Backend:</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
@@ -57,20 +57,20 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 
-<h4 align="left">Mobile:</h4>
+<h3 align="left">Mobile:</h3>
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=437291)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin&logoColor=7F52FF)
 
-<h4 align="left">Database:</h4>
+<h3 align="left">Database:</h3>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
-<h4 align="left">DevOps:</h4>
+<h3 align="left">DevOps:</h3>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=#000000)
@@ -81,10 +81,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=githubactions)
 
-<h4 align="left">etc:</h4>
+<h3 align="left">etc:</h3>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+
+<h2 align="left">Certifications</h2>
+
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_SAA-C03" width="100" height="auto" style=""><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS_CLF-C02" width="100" height="auto">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=seahahn&show_icons=true&locale=en&theme=great-gatsby" alt="seahahn" />
