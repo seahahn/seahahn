@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseahahn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-- 📄 Resume : [https://bit.ly/47SlN3k](https://bit.ly/47SlN3k)
+- 📄 Resume : [https://bit.ly/gyeongho-resume](https://bit.ly/gyeongho-resume)
 
 - 👨‍💻 Portfolio : [https://github.com/seahahn/portfolio](https://github.com/seahahn/portfolio)
 
