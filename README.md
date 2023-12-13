@@ -7,11 +7,11 @@
 
 - 📄 Resume : [https://bit.ly/gyeongho-resume](https://bit.ly/gyeongho-resume)
 
-- 👨‍💻 Portfolio : [https://github.com/seahahn/portfolio](https://github.com/seahahn/portfolio)
-
-- 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
+- 👨‍💻 Portfolio : [https://bit.ly/gyeongho-portfolio](https://bit.ly/gyeongho-portfolio)
 
 - 🔗 LinkedIn: [https://www.linkedin.com/in/seahahn](https://www.linkedin.com/in/seahahn)
+
+- 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
 
 - 📫 E-mail : [seah.ahn.nt@gmail.com](mailto:seah.ahn.nt@gmail.com)
 
