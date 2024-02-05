@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio : [https://bit.ly/gyeongho-portfolio](https://bit.ly/gyeongho-portfolio)
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/gyeongho-ahn](https://www.linkedin.com/in/gyeongho-ahn)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/seahahn](https://www.linkedin.com/in/seahahn)
 
 - 📝 Blog : [https://seahahn.tistory.com/](https://seahahn.tistory.com/)
 
